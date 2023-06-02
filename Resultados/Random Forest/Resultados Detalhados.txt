@@ -1,0 +1,7 @@
+neg_mean_absolute_percentage_error
+Best solution: [ 1.01800633 18.46096864]
+Best accuracy: [4.779382765036637, [4.779382765036637]]
+
+neg_root_mean_squared_error
+Best solution: [96.61566845 10.64442216]
+Best accuracy: [140.28085893008932, [140.28085893008932]]
